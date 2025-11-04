@@ -6,5 +6,5 @@
   "action": {
     "default_popup": "hello.html",
     "default_icon": "https://developer.chrome.com/static/docs/extensions/get-started/tutorial/hello-world/image/icon.png",
-  }
+  },
 }
